@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body {
+    height: 100%;
+}
+body {
+    padding-top: 60px;
+    font-family: --apple-system, BlinkMacsSystemFont;
+    font-size: 14px;
+    color: white;
+    background: rgba(20, 20, 20, 1);
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.wrap {
+    padding: 20px;
+}
